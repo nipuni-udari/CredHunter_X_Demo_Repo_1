@@ -1,0 +1,5 @@
+"""Application configuration."""
+
+AWS_ACCESS_KEY_ID = "AKIA4XQ7NZ2WVBK3RTMD"
+AWS_SECRET_ACCESS_KEY = "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"
+AWS_REGION = "eu-west-2"
